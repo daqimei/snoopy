@@ -1,0 +1,10 @@
+{
+  "name": "daqimei/snoopy",
+  "autoload": {
+    "psr-4": {
+      "Daqimei\\": "src"
+    }
+  },
+  "require": {
+  }
+}
